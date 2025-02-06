@@ -1,8 +1,8 @@
 ### A Computer Engineering freshman who is a bit interested in everything.
 
-🔭 Currently learning web developing,
-🌱 A beginner in keyboard making hobby.
-⚡ interested in gadgets
+🔭 Currently learning cyber security,
+🌱 A beginner in handmade keyboard community.
+⚡ interested in gadgets.
 
 <!--
 **Apiratchai/Apiratchai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
