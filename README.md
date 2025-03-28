@@ -1,20 +1,23 @@
-### A Computer Engineering freshman who is a bit interested in everything.
+# 👋 A Computer Engineering Student Interested in Everything
 
-🔭 Currently learning cyber security,
-🌱 A beginner in handmade keyboard community.
-⚡ interested in gadgets.
+🔭 Currently Learning Cybersecurity  
+🌱 A beginner in handmade keyboard community  
 
-<!--
-**Apiratchai/Apiratchai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ⚡ This Semester Break Goals
+- 🛡️ Pursue **ISC2 CC Certificate**  
+- 📖 Score **750+ in TOEIC**  
+- 🏴‍☠️ Complete more rooms on **TryHackMe**  
+- 🌐 Strenghten **Networking Knowledge**  
+- 🔧 Learn **Cisco Packet Tracer, Splunk, Kali tools**  
+- ⌨️ Finish **Trackball & Keyboard Builds**
+- 🀄 **Learn Chinese** (just in case there's going to be a new world order)
 
-Here are some ideas to get you started:
+📌 *Disclaimer: Half of the above will not be achieved.*  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+📫 **Let's Connect**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/apiratchai)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:apiratchai@kkumail.com)  
+
+---
