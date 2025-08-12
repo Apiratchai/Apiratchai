@@ -4,16 +4,24 @@
 🌱 A beginner in the handmade keyboard community
 🐧 Linux From Scratch ID 31447
 
-### ⚡ This Semester Break Goals
-- 🛡️ Pursue the **ISC2 CC Certificate**  [Done]
-- 📖 Score **750+ on TOEIC**  [No time for exam]
-- 🏴‍☠️ Complete more rooms on **TryHackMe**  [Ran out of subscription budget]
-- 🌐 Strengthen **networking knowledge**  [Done]
-- 🔧 Learn **Cisco Packet Tracer, Splunk, and Kali tools**  [Only a little bit of everything is done]
-- ⌨️ Finish **trackball and keyboard builds**  [Partially done]
-- 🧑‍🏫 Complete my internship without being beheaded by the professor  [Done]
+### ⚡ 2025 Goal
+#### 2024 > 2025 Semester break
+- 🛡️ Pursue the **ISC2 CC Certificate**  ✅
+- 📖 Score **750+ on TOEIC**  ❌ (No time for exam)
+- 🏴‍☠️ Complete more rooms on **TryHackMe**  ❌ (Ran out of subscription budget)
+- 🌐 Strengthen **networking knowledge** ✅
+- 🔧 Learn **Cisco Packet Tracer, Splunk, and Kali tools** 🟨 (No time for splunk)
+- ⌨️ Finish **trackball and keyboard builds**  🟨 (Partially done but not so practical to use, though)
+- 🧑‍🏫 Complete my internship without being beheaded by the professor 🟨 (Done, learned alot but got beheaded)
 
-📌 *Disclaimer: Half of the above will not be achieved in time.*  
+#### 1/2025
+- 🥇 Place not worse than **150/250 teams** in Cyber Top Talent CTF
+- 📚 Survive **Stochastic Process**, **Micro controller**
+- 🔐 Learn **CySA+** and prepare for $50 Beta exam late 2025
+- 💻 Go back to do some **basic CRUD website**
+- 📨 Spam internship enrollments!
+
+📌 *Disclaimer: Half of the above will not be achieved in time. << it's proven true*  
 
 <br></br>
 📫 **Let's Connect**  
