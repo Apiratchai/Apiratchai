@@ -5,7 +5,9 @@
 🌱 A beginner in the handmade keyboard community  
 
 
-![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white) <img src="https://github.com/Apiratchai/Apiratchai/blob/main/QMK.png" width="94">
+[![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)](https://www.debian.org)
+[<img src="https://github.com/Apiratchai/Apiratchai/blob/main/QMK.png" width="93.5">](https://qmk.fm)
+
 
 ### 📫 Let's Connect  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/apiratchai)
