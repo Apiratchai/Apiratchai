@@ -2,7 +2,11 @@
 
 🔭 Currently learning cybersecurity  
 🌱 A beginner in the handmade keyboard community
-🐧 Linux From Scratch ID 31447
+
+
+![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+![QMK](https://qmk.fm/badge-small-dark.png)
+
 
 ### ⚡ 2025 Goal
 #### 2024 > 2025 Semester break
