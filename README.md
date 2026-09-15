@@ -7,7 +7,7 @@
 
 [![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)](https://www.debian.org)
 [<img src="https://github.com/Apiratchai/Apiratchai/blob/main/QMK.png" width="93.5">](https://qmk.fm)
-<a href="https://apiratchai.netlify.app" ><img src="https://apiratchai.netlify.app/favicon.svg" height="28" style="vertical-align:middle;"><img src="https://img.shields.io/badge/-BLOG-FF7773?style=for-the-badge&logoColor=white" height="28" style="vertical-align:middle;">
+<a href="https://apiratchai.com" ><img src="https://apiratchai.netlify.app/favicon.svg" height="28" style="vertical-align:middle;"><img src="https://img.shields.io/badge/-BLOG-FF7773?style=for-the-badge&logoColor=white" height="28" style="vertical-align:middle;">
 </a>
 
 ### 📫 Let's Connect  
